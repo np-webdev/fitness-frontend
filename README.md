@@ -1,2 +1,2 @@
 # fitness-frontend
-test
+https://fitness-frontend-deployed.netlify.app/
