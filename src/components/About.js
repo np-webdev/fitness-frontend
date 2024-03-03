@@ -15,12 +15,7 @@ function About() {
       <div>
         <h1 className="about_h1">Fitnessstudio G5</h1>
         <p className="about_p">
-          Gib alles für Fitness und Gesundheit. Aber nicht irgendwo. Sondern da,
-          wo es wirklich Spaß macht, weil es richtig abgeht. Bei Elbefitness
-          findest du alles, was das Trainingsherz begehrt. Über 120
-          Gerätestationen. Ein Team, das immer ein Lächeln für dich übrig hat. Und
-          viele Gleichgesinnte, die die Motivation oben halten. Wir machen eben
-          Magdeburg fit – und gerne auch dich!!
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus atque unde saepe. Distinctio, dolore, quae aut nobis asperiores mollitia rem cum, quaerat porro hic facilis et ex ipsa debitis magnam? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus atque unde saepe. Distinctio, dolore, quae aut nobis asperiores mollitia rem cum, quaerat porro hic facilis et ex ipsa debitis magnam?
         </p>
       </div>
     </div>
